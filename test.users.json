@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65f27cfee283d21e27dfb2fc"
+  },
+  "name": "Admin User",
+  "email": "admin@parthik.com",
+  "password": "$2a$10$2JQIlOeXHOlpOHgdoaXaiOjn6SuLA4c9YeUvEqdIo0vupBigdbzu2",
+  "isAdmin": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-14T04:28:46.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T04:28:46.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f27cfee283d21e27dfb2fd"
+  },
+  "name": "parthik",
+  "email": "parthikkhunt@gmail.com",
+  "password": "$2a$10$Ip4jGWYyC24ys6bfjshu3eqmryhHd8E6FVb.Vh7J/mgSatWdREAUK",
+  "isAdmin": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-14T04:28:46.216Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T04:28:46.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f27cfee283d21e27dfb2fe"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "password": "$2a$10$Kdh4HYzSikj76f9qYpcQHuk3Z8LrF3f/xq9oUYsTGK4siCBgV/VSK",
+  "isAdmin": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-03-14T04:28:46.216Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T04:28:46.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f3d02584d921e517c68076"
+  },
+  "name": "b",
+  "email": "b@gmail.com",
+  "password": "$2a$10$UdJF0bqR4RB52xBo3dqKW.rIFGtLL/d1f2bC9.ap22JGbmAtduj8S",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-03-15T04:35:49.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T04:35:49.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f40a2e8a8866e62ec5c113"
+  },
+  "name": "c",
+  "email": "c@gmail.com",
+  "password": "$2a$10$7bgIj/vwO9W4PTvy0HDnLen29BI2ribGwkkLREoyQlKO5Rqgi6wWy",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-03-15T08:43:26.292Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T08:43:26.292Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f94c"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "Airpods Wireless Bluetooth Headphones",
+  "image": "/images/airpods.jpg",
+  "brand": "Apple",
+  "category": "Electronics",
+  "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+  "rating": 5,
+  "numReviews": 1,
+  "price": 29000,
+  "countInStock": 10,
+  "reviews": [
+    {
+      "name": "parthik",
+      "rating": 5,
+      "comment": "good product",
+      "user": {
+        "$oid": "65c1ddaeb4899c845a0ae3ef"
+      },
+      "_id": {
+        "$oid": "65e942e490f6906b6017003d"
+      },
+      "createdAt": {
+        "$date": "2024-03-07T04:30:28.068Z"
+      },
+      "updatedAt": {
+        "$date": "2024-03-07T04:30:28.068Z"
+      }
+    }
+  ],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-07T04:30:28.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f94d"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "iPhone 11 Pro 256GB Memory",
+  "image": "/images/phone.jpg",
+  "brand": "Apple",
+  "category": "Electronics",
+  "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 59999,
+  "countInStock": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f94e"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "Cannon EOS 80D DSLR Camera",
+  "image": "/images/camera.jpg",
+  "brand": "Cannon",
+  "category": "Electronics",
+  "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 92999,
+  "countInStock": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f94f"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "Sony Playstation 4 Pro White Version",
+  "image": "/images/playstation.jpg",
+  "brand": "Sony",
+  "category": "Electronics",
+  "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+  "rating": 1,
+  "numReviews": 1,
+  "price": 39999,
+  "countInStock": 10,
+  "reviews": [
+    {
+      "name": "Admin User",
+      "rating": 1,
+      "comment": "sdw",
+      "user": {
+        "$oid": "65c1b48d82507d193fa5f948"
+      },
+      "_id": {
+        "$oid": "65c618f66f6d8046e7ab4546"
+      },
+      "createdAt": {
+        "$date": "2024-02-09T12:22:14.241Z"
+      },
+      "updatedAt": {
+        "$date": "2024-02-09T12:22:14.241Z"
+      }
+    }
+  ],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-09T12:22:14.244Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f950"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "Logitech G-Series Gaming Mouse",
+  "image": "/images/mouse.jpg",
+  "brand": "Logitech",
+  "category": "Electronics",
+  "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 4999,
+  "countInStock": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f951"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "Amazon Echo Dot 3rd Generation",
+  "image": "/images/alexa.jpg",
+  "brand": "Amazon",
+  "category": "Electronics",
+  "description": "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 29999,
+  "countInStock": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T04:24:45.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f952"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "Samsung Galaxy S21- Smartphone",
+  "image": "/images/galaxy_s21.jpg",
+  "brand": "Samsung",
+  "category": "Electronics",
+  "description": "Introducing the new Samsung Galaxy S21. Packed with features like a stunning display, powerful camera, and long-lasting battery life.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 33900,
+  "countInStock": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-15T10:36:20.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T08:12:30.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c1b48d82507d193fa5f953"
+  },
+  "user": {
+    "$oid": "65c1b48d82507d193fa5f948"
+  },
+  "name": "Apple MacBook Pro 13-inch",
+  "image": "/images/macbook_pro.jpg",
+  "brand": "Apple",
+  "category": "Electronics",
+  "description": "The Apple MacBook Pro 13-inch is a powerful and portable laptop with a stunning Retina display, advanced performance, and long battery life.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 129999,
+  "countInStock": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T09:20:10.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T10:30:00.652Z"
+  }
+}]
