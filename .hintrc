@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/html": [
+      "default",
+      {
+        "ignore": [
+          "meta[name=theme-color]"
+        ]
+      }
+    ],
+    "manifest-file-extension": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-webkit-tap-highlight-color",
+          "text-decoration-skip-ink",
+          "-webkit-text-size-adjust",
+          "@page",
+          "@page"
+        ]
+      }
+    ],
+    "typescript-config/consistent-casing": "off"
+  }
+}
