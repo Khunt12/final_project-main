@@ -60,7 +60,7 @@ export const login = (email, password) => async (dispatch) => {
           ? error.response.data.message
           : error.message,
     })
-    
+
   }
 }
 
